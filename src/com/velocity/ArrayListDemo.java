@@ -12,6 +12,7 @@ public class ArrayListDemo {
 		list.add("Manisha");
 		list.add("Rohan");
 		list.add("Nikhil");
+		list.add("Jeevan");
 		
 		/*System.out.println(list);*/
 		
